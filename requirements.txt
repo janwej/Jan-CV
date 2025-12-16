@@ -1,0 +1,5 @@
+altair
+pandas
+streamlit
+
+streamlit>=1.39.0
